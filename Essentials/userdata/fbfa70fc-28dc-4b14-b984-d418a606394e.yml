@@ -1,0 +1,29 @@
+lastAccountName: FalconArmy
+timestamps:
+  login: 1610513690651
+  lastteleport: 1610517596558
+  logout: 1610517875781
+ipAddress: 73.14.139.249
+homes:
+  home:
+    world: mp-world
+    x: 1107.99385119423
+    y: 64.0
+    z: 362.1597661571113
+    yaw: 190.04643
+    pitch: 41.850292
+lastlocation:
+  world: mp-world
+  x: 1130.449746417949
+  y: 69.0
+  z: 213.22573340031522
+  yaw: 279.95154
+  pitch: 11.699934
+money: '57.00115000000004720'
+logoutlocation:
+  world: mp-world
+  x: 135.99149837760066
+  y: 69.22149363870948
+  z: 163.5545867357006
+  yaw: 53.54966
+  pitch: -13.50082

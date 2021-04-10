@@ -1,0 +1,620 @@
+designer:
+  name: "&9&lBlocks (page %page%)"
+  size: 54
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  items:
+    1:
+      type: item
+      item:
+        material: TERRACOTTA 
+        quantity: 64
+      buyPrice: 100
+      sellPrice: 10
+      slot: 10
+    2:
+      type: item
+      item:
+        material: BLACK_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 11
+    3:
+      type: item
+      item:
+        material: RED_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 12
+    4:
+      type: item
+      item:
+        material: GREEN_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 13
+    5:
+      type: item
+      item:
+        material: BROWN_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 14
+    6:
+      type: item
+      item:
+        material: BLUE_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 15
+    7:
+      type: item
+      item:
+        material: PURPLE_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 16
+    8:
+      type: item
+      item:
+        material: CYAN_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 19
+    9:
+      type: item
+      item:
+        material: LIGHT_GRAY_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 20
+    10:
+      type: item
+      item:
+        material: GRAY_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 21
+    11:
+      type: item
+      item:
+        material: PINK_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 22
+    12:
+      type: item
+      item:
+        material: LIME_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 23
+    13:
+      type: item
+      item:
+        material: YELLOW_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 24
+    14:
+      type: item
+      item:
+        material: LIGHT_BLUE_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 25
+    15:
+      type: item
+      item:
+        material: MAGENTA_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 30
+    16:
+      type: item
+      item:
+        material: ORANGE_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 31
+    17:
+      type: item
+      item:
+        material: WHITE_TERRACOTTA
+        quantity: 64
+      buyPrice: 125
+      sellPrice: 10
+      slot: 32
+    19:
+      type: item
+      item:
+        material: BLACK_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 11
+      page: 2
+    20:
+      type: item
+      item:
+        material: RED_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 12
+      page: 2
+    21:
+      type: item
+      item:
+        material: GREEN_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 13
+      page: 2
+    22:
+      type: item
+      item:
+        material: BROWN_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 14
+      page: 2
+    23:
+      type: item
+      item:
+        material: BLUE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 15
+      page: 2
+    24:
+      type: item
+      item:
+        material: PURPLE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 16
+      page: 2
+    25:
+      type: item
+      item:
+        material: CYAN_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 24
+      page: 2
+    26:
+      type: item
+      item:
+        material: LIGHT_GRAY_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 20
+      page: 2
+    27:
+      type: item
+      item:
+        material: GRAY_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 21
+      page: 2
+    28:
+      type: item
+      item:
+        material: PINK_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 22
+      page: 2
+    29:
+      type: item
+      item:
+        material: LIME_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 23
+      page: 2
+    30:
+      type: item
+      item:
+        material: YELLOW_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 32
+      page: 2
+    31:
+      type: item
+      item:
+        material: LIGHT_BLUE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 25
+      page: 2
+    32:
+      type: item
+      item:
+        material: MAGENTA_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 30
+      page: 2
+    33:
+      type: item
+      item:
+        material: ORANGE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 31
+      page: 2
+    34:
+      type: item
+      item:
+        material: WHITE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 10
+      slot: 33
+      page: 2
+    36:
+      type: special
+      special: BALANCE
+      slot: 53
+    37:
+      type: special
+      special: BALANCE
+      slot: 53
+      page: 2
+    38:
+      type: item
+      item:
+        material: BLACK_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 11
+      page: 3
+    39:
+      type: item
+      item:
+        material: RED_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 12
+      page: 3
+    40:
+      type: item
+      item:
+        material: GREEN_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 13
+      page: 3
+    41:
+      type: item
+      item:
+        material: BROWN_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 14
+      page: 3
+    42:
+      type: item
+      item:
+        material: BLUE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 15
+      page: 3
+    43:
+      type: item
+      item:
+        material: PURPLE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 16
+      page: 3
+    44:
+      type: item
+      item:
+        material: CYAN_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 24
+      page: 3
+    45:
+      type: item
+      item:
+        material: LIGHT_GRAY_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 20
+      page: 3
+    46:
+      type: item
+      item:
+        material: GRAY_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 21
+      page: 3
+    47:
+      type: item
+      item:
+        material: PINK_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 22
+      page: 3
+    48:
+      type: item
+      item:
+        material: LIME_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 23
+      page: 3
+    49:
+      type: item
+      item:
+        material: YELLOW_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 32
+      page: 3
+    50:
+      type: item
+      item:
+        material: LIGHT_BLUE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 25
+      page: 3
+    51:
+      type: item
+      item:
+        material: MAGENTA_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 30
+      page: 3
+    52:
+      type: item
+      item:
+        material: ORANGE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 31
+      page: 3
+    53:
+      type: item
+      item:
+        material: WHITE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 33
+      page: 3
+    54:
+      type: item
+      item:
+        material: BLACK_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 11
+      page: 4
+    55:
+      type: item
+      item:
+        material: RED_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 12
+      page: 4
+    56:
+      type: item
+      item:
+        material: GREEN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 13
+      page: 4
+    57:
+      type: item
+      item:
+        material: BROWN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 14
+      page: 4
+    58:
+      type: item
+      item:
+        material: BLUE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 15
+      page: 4
+    59:
+      type: item
+      item:
+        material: PURPLE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 16
+      page: 4
+    60:
+      type: item
+      item:
+        material: CYAN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 24
+      page: 4
+    61:
+      type: item
+      item:
+        material: LIGHT_GRAY_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 20
+      page: 4
+    62:
+      type: item
+      item:
+        material: GRAY_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 21
+      page: 4
+    63:
+      type: item
+      item:
+        material: PINK_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 22
+      page: 4
+    64:
+      type: item
+      item:
+        material: LIME_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 23
+      page: 4
+    65:
+      type: item
+      item:
+        material: YELLOW_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 32
+      page: 4
+    66:
+      type: item
+      item:
+        material: LIGHT_BLUE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 25
+      page: 4
+    67:
+      type: item
+      item:
+        material: MAGENTA_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 30
+      page: 4
+    68:
+      type: item
+      item:
+        material: ORANGE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 31
+      page: 4
+    69:
+      type: item
+      item:
+        material: WHITE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 20
+      slot: 33
+      page: 4
+    70:
+      type: item
+      item:
+        material: SLIME_BLOCK
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 144
+      slot: 11
+      page: 5
+    71:
+      type: item
+      item:
+        material: ENCHANTING_TABLE
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 20
+      slot: 14
+      page: 5
+    72:
+      type: item
+      item:
+        material: HONEY_BLOCK
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 25
+      slot: 12
+      page: 5
+    73:
+      type: item
+      item:
+        material: HONEYCOMB_BLOCK
+        quantity: 64
+      buyPrice: 250
+      sellPrice: 25
+      slot: 13
+      page: 5

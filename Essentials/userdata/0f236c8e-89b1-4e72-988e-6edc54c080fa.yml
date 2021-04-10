@@ -1,0 +1,20 @@
+lastAccountName: Kiwioperator
+timestamps:
+  login: 1615624696924
+  logout: 1615624717433
+  lastteleport: 1615086644271
+ipAddress: 73.76.86.31
+logoutlocation:
+  world: mp-world
+  x: 561.6484405065313
+  y: 70.875
+  z: 217.7314032122213
+  yaw: 339.86606
+  pitch: 35.249928
+lastlocation:
+  world: mp-world
+  x: 560.5
+  y: 74.0
+  z: 216.5
+  yaw: 78.59999
+  pitch: 3.9

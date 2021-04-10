@@ -1,0 +1,134 @@
+ores:
+  name: "&3&lOres (page %page%)"
+  size: 45
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 36
+    nextPage:
+      slot: 45
+  items:
+    1:
+      type: item
+      item:
+        material: COAL
+        quantity: 32
+      buyPrice: 100
+      sellPrice: 5
+      slot: 9
+    2:
+      type: item
+      item:
+        material: REDSTONE
+        quantity: 64
+      buyPrice: 20
+      sellPrice: 4
+      slot: 10
+    3:
+      type: item
+      item:
+        material: LAPIS_LAZULI
+        quantity: 64
+      buyPrice: 20
+      sellPrice: 4
+      slot: 11
+    4:
+      type: item
+      item:
+        material: IRON_INGOT
+        quantity: 8
+      buyPrice: 300
+      sellPrice: 30
+      slot: 12
+    5:
+      type: item
+      item:
+        material: GOLD_INGOT
+        quantity: 8
+      buyPrice: 300
+      sellPrice: 30
+      slot: 13
+    6:
+      type: item
+      item:
+        material: DIAMOND
+        quantity: 8
+      buyPrice: 1000
+      sellPrice: 100
+      slot: 14
+    7:
+      type: item
+      item:
+        material: EMERALD
+        quantity: 8
+      buyPrice: 200
+      sellPrice: 40
+      slot: 15
+    8:
+      type: item
+      item:
+        material: QUARTZ
+        quantity: 64
+      buyPrice: 20
+      sellPrice: 4
+      slot: 16
+    9:
+      type: item
+      item:
+        material: COAL_BLOCK
+        quantity: 16
+      buyPrice: 75
+      sellPrice: 22
+      slot: 18
+    10:
+      type: item
+      item:
+        material: REDSTONE_BLOCK
+        quantity: 63
+      buyPrice: 100
+      sellPrice: 35
+      slot: 19
+    11:
+      type: item
+      item:
+        material: LAPIS_BLOCK
+        quantity: 63
+      buyPrice: 100
+      sellPrice: 35
+      slot: 20
+    12:
+      type: item
+      item:
+        material: IRON_BLOCK
+        quantity: 64
+      buyPrice: 6000
+      sellPrice: 2160
+      slot: 21
+    13:
+      type: item
+      item:
+        material: GOLD_BLOCK
+        quantity: 64
+      buyPrice: 6000
+      sellPrice: 2160
+      slot: 22
+    14:
+      type: item
+      item:
+        material: DIAMOND_BLOCK
+        quantity: 64
+      buyPrice: 10000
+      sellPrice: 7089
+      slot: 23
+    15:
+      type: item
+      item:
+        material: EMERALD_BLOCK
+        quantity: 64
+      buyPrice: 5000
+      sellPrice: 2835
+      slot: 24

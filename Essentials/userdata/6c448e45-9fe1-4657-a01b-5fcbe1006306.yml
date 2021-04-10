@@ -1,0 +1,36 @@
+lastAccountName: Ganome420
+timestamps:
+  login: 1611711719363
+  logout: 1611711872081
+  lastteleport: 1611618184534
+ipAddress: 192.168.100.10
+logoutlocation:
+  world: mp-world
+  x: -58.334741836995676
+  y: 69.0
+  z: 153.8987622689114
+  yaw: -308.49377
+  pitch: 56.3999
+lastlocation:
+  world: mp-world
+  x: 26.200662491929794
+  y: 68.0
+  z: 44.917406606886324
+  yaw: -107.6348
+  pitch: 6.4499316
+money: '20008.50477500000000496'
+homes:
+  farm:
+    world: mp-world
+    x: 76.62607450420006
+    y: 90.5
+    z: 123.50837597657656
+    yaw: -90.53498
+    pitch: 16.500128
+  home:
+    world: mp-world
+    x: 41.2545123540413
+    y: 69.0
+    z: 34.378298202294474
+    yaw: 234.5155
+    pitch: 47.250015

@@ -1,0 +1,43 @@
+lastAccountName: lovethewicked13
+timestamps:
+  login: 1613519672288
+  logout: 1613521583531
+  lastteleport: 1613521196591
+ipAddress: 67.190.91.230
+logoutlocation:
+  world: mp-world
+  x: 364.9268257302426
+  y: 63.0
+  z: 3867.202331697184
+  yaw: -93.97549
+  pitch: 29.741371
+money: '59444.12507999999690605'
+homes:
+  home:
+    world: mp-world
+    x: -48.17968105882514
+    y: 63.0
+    z: 201.08267836487718
+    yaw: 177.14667
+    pitch: 21.663284
+  wither:
+    world: mp-world_nether
+    x: 332.42900808078434
+    y: 58.0
+    z: 80.60504928672734
+    yaw: 2.0144653
+    pitch: 13.497098
+  monument:
+    world: mp-world
+    x: 350.523717207091
+    y: 63.0
+    z: 3871.796718014131
+    yaw: -272.8934
+    pitch: 18.02455
+lastlocation:
+  world: mp-world
+  x: -55.04251950034309
+  y: 63.0
+  z: 189.28097208080587
+  yaw: 97.718994
+  pitch: 7.996487

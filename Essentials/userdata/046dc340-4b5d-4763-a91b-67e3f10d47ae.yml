@@ -1,0 +1,43 @@
+lastAccountName: CatQueen5246
+timestamps:
+  login: 1613771069647
+  logout: 1613771105659
+  lastteleport: 1613691140614
+ipAddress: 73.153.210.191
+logoutlocation:
+  world: mp-world
+  x: 101.70891433803534
+  y: 75.7577979528444
+  z: 299.5577358081707
+  yaw: -80.02219
+  pitch: -32.550053
+lastlocation:
+  world: mp-world
+  x: 22.396283275664942
+  y: 69.0
+  z: 159.39611283726893
+  yaw: 266.164
+  pitch: 37.650127
+money: '4813.84966999999998619'
+homes:
+  home:
+    world: mp-world
+    x: 89.06669881022236
+    y: 76.5625
+    z: 284.30000001192093
+    yaw: 3.5276644
+    pitch: 29.100208
+  t:
+    world: mp-world
+    x: 44.5
+    y: 46.0
+    z: 249.5
+    yaw: -249.72662
+    pitch: 59.849773
+  v1:
+    world: mp-world
+    x: 81.79239202324855
+    y: 90.5
+    z: 120.21126841389389
+    yaw: 77.76537
+    pitch: 40.200012

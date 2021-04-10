@@ -1,0 +1,107 @@
+lastAccountName: Ganome317
+timestamps:
+  login: 1616861281151
+  logout: 1615060091153
+  lastteleport: 1613802079449
+ipAddress: 67.190.91.230
+logoutlocation:
+  world: mp-world
+  x: -185.28132027328508
+  y: 74.0
+  z: -2063.807730100362
+  yaw: 85.40279
+  pitch: -5.549998
+homes:
+  service:
+    world: mp-world
+    x: 8.38561869886614
+    y: 208.0
+    z: 65.24561630447721
+    yaw: -29.48629
+    pitch: 79.65011
+  profit:
+    world: mp-world
+    x: 3.4832910531306207
+    y: 188.0
+    z: 66.44889153379259
+    yaw: 272.39215
+    pitch: -64.663246
+  slimeprof:
+    world: mp-world
+    x: 42.54120032857845
+    y: 6.0
+    z: 161.14021284689164
+    yaw: 256.49896
+    pitch: 28.499739
+  iron:
+    world: mp-world
+    x: 86.53714122354056
+    y: 90.5
+    z: 119.48042348903813
+    yaw: 74.9603
+    pitch: 0.29999474
+  slime:
+    world: mp-world
+    x: 57.483180095051125
+    y: 65.0
+    z: 166.4870993496544
+    yaw: 209.54643
+    pitch: -27.025194
+  zombified_pig:
+    world: mp-world_nether
+    x: -90.11247049906227
+    y: 12.0
+    z: 303.7641874882849
+    yaw: 175.31409
+    pitch: 3.7499065
+  home:
+    world: mp-world
+    x: 16.974281899471734
+    y: 65.0
+    z: 83.64565192678927
+    yaw: 264.29907
+    pitch: 16.799837
+  bees:
+    world: mp-world
+    x: -2056.347546900181
+    y: 72.0
+    z: -67.79961679829175
+    yaw: 87.60248
+    pitch: -5.1000066
+  swamp:
+    world: mp-world
+    x: -4332.475887442803
+    y: 71.0
+    z: -105.06000913869568
+    yaw: 42.007935
+    pitch: 8.071584
+  lukewarm_ocean:
+    world: mp-world
+    x: -7916.612096373441
+    y: 63.0
+    z: -465.07294762738945
+    yaw: 96.68445
+    pitch: 8.400284
+  turtle:
+    world: mp-world
+    x: -7842.674771419564
+    y: 65.0
+    z: -611.0648144782274
+    yaw: 318.53427
+    pitch: 16.800104
+  newhome:
+    world: mp-world
+    x: -235.79051686984403
+    y: 65.0
+    z: -2023.0867098012245
+    yaw: 162.88391
+    pitch: 5.8500266
+money: '144486.063039999999155804'
+lastlocation:
+  world: mp-world
+  x: 17.69999998807907
+  y: 65.0
+  z: 80.2285349585088
+  yaw: 301.799
+  pitch: 14.0998535
+godmode: false

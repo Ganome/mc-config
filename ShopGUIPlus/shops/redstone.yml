@@ -1,0 +1,187 @@
+redstone:
+  name: "&3&lRedstone (page %page%)"
+  size: 54
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 36
+    nextPage:
+      slot: 45
+  items:
+    1:
+      type: item
+      item:
+        material: REDSTONE
+        quantity: 16
+      buyPrice: 5
+      sellPrice: 1
+      slot: 1
+    2:
+      type: item
+      item:
+        material: REDSTONE_TORCH
+        quantity: 16
+      buyPrice: 4
+      sellPrice: 1
+      slot: 2
+    3:
+      type: item
+      item:
+        material: REDSTONE_LAMP
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 16
+      slot: 11
+    4:
+      type: item
+      item:
+        material: REPEATER
+        quantity: 8
+      buyPrice: 250
+      sellPrice: 4
+      slot: 6
+    5:
+      type: item
+      item:
+        material: COMPARATOR
+        quantity: 8
+      buyPrice: 250
+      sellPrice: 4
+      slot: 7
+    6:
+      type: item
+      item:
+        material: REDSTONE_BLOCK
+        quantity: 8
+      buyPrice: 25
+      sellPrice: 4
+      slot: 10
+    7:
+      type: item
+      item:
+        material: HOPPER
+        quantity: 8
+      buyPrice: 200
+      sellPrice: 40
+      slot: 15
+    8:
+      type: item
+      item:
+        material: DROPPER
+        quantity: 8
+      buyPrice: 200
+      sellPrice: 40
+      slot: 16
+    9:
+      type: item
+      item:
+        material: DISPENSER
+        quantity: 8
+      buyPrice: 250
+      sellPrice: 40
+      slot: 4
+    10:
+      type: item
+      item:
+        material: PISTON
+        quantity: 4
+      buyPrice: 250
+      sellPrice: 40
+      slot: 24
+    11:
+      type: item
+      item:
+        material: STICKY_PISTON
+        quantity: 4
+      buyPrice: 250
+      sellPrice: 40
+      slot: 25
+    12:
+      type: item
+      item:
+        material: TRIPWIRE_HOOK
+        quantity: 4
+      buyPrice: 250
+      slot: 13
+    13:
+      type: item
+      item:
+        material: DAYLIGHT_DETECTOR
+        quantity: 1
+      buyPrice: 100
+      slot: 19
+    14:
+      type: item
+      item:
+        material: OBSERVER
+        quantity: 1
+      buyPrice: 250
+      sellPrice: 10
+      slot: 20
+    15:
+      type: item
+      item:
+        material: NOTE_BLOCK
+        quantity: 1
+      buyPrice: 100
+      slot: 22
+    16:
+      type: item
+      item:
+        material: MINECART
+        quantity: 1
+      buyPrice: 25
+      slot: 28
+    17:
+      type: item
+      item:
+        material: RAIL
+        quantity: 16
+      buyPrice: 100
+      slot: 29
+    18:
+      type: item
+      item:
+        material: POWERED_RAIL
+        quantity: 16
+      buyPrice: 250
+      slot: 30
+    19:
+      type: item
+      item:
+        material: ACTIVATOR_RAIL
+        quantity: 8
+      buyPrice: 100
+      slot: 31
+    20:
+      type: item
+      item:
+        material: DETECTOR_RAIL
+        quantity: 8
+      buyPrice: 100
+      slot: 32
+    21:
+      type: item
+      item:
+        material: CHEST_MINECART
+        quantity: 1
+      buyPrice: 50
+      slot: 33
+    22:
+      type: item
+      item:
+        material: HOPPER_MINECART
+        quantity: 1
+      buyPrice: 50
+      slot: 34
+    23:
+      type: item
+      item:
+        material: TARGET
+        quantity: 1
+      buyPrice: 250
+      slot: 40
