@@ -1,0 +1,2 @@
+- Fixed: LandCreateEvent cancellation issue
+- Fixed: Added server-name.yml to override Redis values from config.yml

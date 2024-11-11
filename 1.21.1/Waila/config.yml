@@ -1,0 +1,92 @@
+
+#░██╗░░░░░░░██╗░█████╗░██╗██╗░░░░░░█████╗░
+#░██║░░██╗░░██║██╔══██╗██║██║░░░░░██╔══██╗
+#░╚██╗████╗██╔╝███████║██║██║░░░░░███████║
+#░░████╔═████║░██╔══██║██║██║░░░░░██╔══██║
+#░░╚██╔╝░╚██╔╝░██║░░██║██║███████╗██║░░██║
+#░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝╚══════╝╚═╝░░╚═╝
+
+author: PolsatGraniePL
+version: 2.2.1
+
+config:
+    refresh-dealy: 1
+    target-distance: 5
+
+bossbar:
+    enabled: true
+    # colors: BLUE, GREEN, PINK, PURPLE, RED, WHITE, YELLOW
+    # styles: SOLID, SEGMENTED_6, SEGMENTED_20, SEGMENTED_12, SEGMENTED_10
+    color: WHITE
+    style: SOLID
+    block:
+        # %itenmane% - Returns the name of the block
+        # %icon% - Returns the icon
+        display: "%itenmane% &8| %icon%"
+        enabled: true
+    crops:
+        # %itenmane% - Returns the name of the block
+        # %icon% - Returns the icon
+        # %progress% - Returns age progress from 0 - 100
+        display: "%itenmane% &8| %icon% &8(&7%progress%%&8)"
+        enabled: true
+    mobs:
+        # %entity% - Returns the entity name
+        # %health% - Returns the entity's current health
+        # %max-health% - Restores the entity's maximum health
+        display: "%entity% &8(&7%health%&8/&7%max-health%&4&l❤&8)"
+        enabled: true
+    drop:
+        # %drop% - Returns a block drop
+        # %itenmane% - Returns the name of the block
+        display: "Drop: &7%drop%"
+        drop-none: "None"
+        enabled: true
+    
+command:
+    #Name: /waila
+    #Description: Hide/Show waila bossbar
+    permission: waila.toggle
+    permission-message: "&cYou don't have permission to do this."
+    hide-message: "&aYou hid Waila information."
+    show-message: "&aYou showed Waila information."
+    
+recipe-search:
+    no-recipes: "&8(&cRecipe %item% not found&8)"
+    # %item% - Returns the name of the item
+    gui-title: "Recipe: %item%"
+    gui-main-block: BLACK_STAINED_GLASS_PANE
+    gui-bottom-line: RED_STAINED_GLASS_PANE
+    exit-item-name: "&cExit"
+    exit-item-material: ARROW
+    blocked-block-message: "&8(&cThe display of the %item% recipe has been blocked&8)"
+    blocked-blocks:
+        - CHEST
+        - ENDER_CHEST
+    
+blocked-mobs:
+    - WITHER
+    - ENDER_DRAGON
+    
+crops:
+    - BEETROOTS
+    - CACTUS
+    - CARROTS
+    - CHORUS_FLOWER
+    - FROSTED_ICE
+    - KELP
+    - MELON_STEM
+    - NETHER_WART
+    - POTATOES
+    - PUMPKIN_STEM
+    - SUGAR_CANE
+    - SWEET_BERRY_BUSH
+    - TORCHFLOWER_CROP
+    - TWISTING_VINES
+    - WEEPING_VINES
+    - WHEAT
+    
+icon:
+    icon-yes: "&2⛏"     #"&2✔"
+    icon-no: "&4⛏"      #"&4✖"
+    icon-no-way: "&0⛏"  #"&0☠"

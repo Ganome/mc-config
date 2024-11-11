@@ -1,0 +1,127 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 66.33.9.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731297280237
+  lastheal: 1730907566103
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731339359927
+  login: 1731339302339
+money: '120169.5687499999999993'
+last-account-name: Ganome317
+lastlocation:
+  world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+  world-name: goodspawn
+  x: -618.8613728163599
+  y: 75.0
+  z: 624.3183662663117
+  yaw: 126.805419921875
+  pitch: 15.258225440979004
+logoutlocation:
+  world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+  world-name: goodspawn
+  x: -620.4621457659767
+  y: 63.0
+  z: 618.4248370672145
+  yaw: 126.75706481933594
+  pitch: -0.029364459216594696
+homes:
+  storage:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: 98.34183089133394
+    y: 117.0
+    z: 414.64142205022904
+    yaw: -51.918548583984375
+    pitch: 2.5158252716064453
+  obsid:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: 226.5651484752883
+    y: -55.0
+    z: 329.2090067045517
+    yaw: 22.02330780029297
+    pitch: 4.6530070304870605
+  nfortress:
+    world: 059176a8-302b-4dea-9ed5-12aca1c379fe
+    world-name: goodspawn_nether
+    x: 43.44901372430662
+    y: 64.0
+    z: -198.17469671537097
+    yaw: -75.55786895751953
+    pitch: 2.844553232192993
+  iron:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: -622.818349452328
+    y: 67.0
+    z: 642.8402990422701
+    yaw: 48.1368408203125
+    pitch: 0.274064838886261
+  soulsand:
+    world: 059176a8-302b-4dea-9ed5-12aca1c379fe
+    world-name: goodspawn_nether
+    x: 157.81950520938378
+    y: 79.0
+    z: 148.19123561722938
+    yaw: 73.56468200683594
+    pitch: 3.6663434505462646
+  jungle:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: 840.7804619546607
+    y: 63.0
+    z: 550.014862826061
+    yaw: 88.08607482910156
+    pitch: 7.176122665405273
+  icespike:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: -2566.665493506451
+    y: 68.0
+    z: -5170.393422192637
+    yaw: -173.5773468017578
+    pitch: 3.674328088760376
+  snowdesert:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: -2788.5469399669973
+    y: 64.0
+    z: -5468.798561345335
+    yaw: -170.64208984375
+    pitch: 6.906338214874268
+  pillager:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: -5395.124474168929
+    y: 78.0
+    z: -6417.411036778331
+    yaw: 31.035888671875
+    pitch: -2.140476703643799
+  deepdark:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: -305.34358336155344
+    y: -47.0
+    z: 723.6999999880791
+    yaw: -96.98789978027344
+    pitch: 1.582982063293457
+  stronghold:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: 1579.33713167747
+    y: -1.0
+    z: -591.3932372434261
+    yaw: -178.05911254882812
+    pitch: 10.951940536499023

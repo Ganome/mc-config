@@ -1,0 +1,16 @@
+Lands:
+  name: Lands
+  url: https://www.youtube.com/watch?app=desktop&v=dmD4ZRS1hIA
+  allowCommand: true
+Enchants:
+  name: ExcellentEnchantments
+  url: https://www.youtube.com/watch?v=YRUq5AsibJw
+  allowCommand: true
+Jobs:
+  name: AdvancedJobs
+  url: https://www.youtube.com/watch?v=LZOngaYUFRw
+  allowCommand: true
+McMMO:
+  name: McMMO
+  url: https://www.youtube.com/watch?v=vabHmGa5z4I
+  allowCommand: true

@@ -1,0 +1,254 @@
+spawners:
+  name: "&7&lSPAWWNERS!! (page %page%)"
+  size: 54
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
+  items:
+    1: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: chicken
+        quantity: 1
+      buyPrice: 1000
+      slot: 0
+    2: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: cow
+        quantity: 1
+      buyPrice: 2500
+      slot: 1
+    3: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: mooshroom
+        quantity: 1
+      buyPrice: 2500
+      slot: 2
+    4: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: sheep
+        quantity: 1
+      buyPrice: 2500
+      slot: 3
+    5: 
+      type: item
+      item:
+        material: FROG_SPAWN_EGG
+        mob: frog
+      buyPrice: 2500
+      slot: 8
+    6: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: armadillo
+        quantity: 1
+      buyPrice: 2500
+      slot: 27
+    7: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: zombie
+        quantity: 1
+      buyPrice: 10000
+      page: 2
+      slot: 0
+    8: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: skeleton
+        quantity: 1
+      buyPrice: 15000
+      page: 2
+      slot: 1
+    9: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: creeper
+        quantity: 1
+      buyPrice: 25000
+      page: 2
+      slot: 2
+    10: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: blaze
+        quantity: 1
+      buyPrice: 50000
+      page: 2
+      slot: 27
+    11: 
+      type: item
+      item:
+        material: PARROT_SPAWN_EGG
+        mob: parrot
+      buyPrice: 2500
+      page: 1
+      slot: 17
+    12: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: pig
+        quantity: 1
+      buyPrice: 2500
+      page: 1
+      slot: 4
+    12: 
+      type: item
+      item:
+        material: TURTLE_SPAWN_EGG
+        mob: turtle
+      buyPrice: 2500
+      page: 1
+      slot: 26
+    13: 
+      type: item
+      item:
+        material: VILLAGER_SPAWN_EGG
+        mob: villager
+      buyPrice: 2500
+      page: 1
+      slot: 35
+    14: 
+      type: item
+      item:
+        material: AXOLOTL_SPAWN_EGG
+        mob: axolotl
+      buyPrice: 2500
+      page: 1
+      slot: 44
+    15: 
+      type: item
+      item:
+        material: HORSE_SPAWN_EGG
+        mob: horse
+      buyPrice: 2500
+      page: 1
+      slot: 7
+    16: 
+      type: item
+      item:
+        material: CAT_SPAWN_EGG
+        mob: cat
+      buyPrice: 2500
+      page: 1
+      slot: 16
+    17: 
+      type: item
+      item:
+        material: WOLF_SPAWN_EGG
+        mob: wolf
+      buyPrice: 2500
+      page: 1
+      slot: 25
+    18: 
+      type: item
+      item:
+        material: ALLAY_SPAWN_EGG
+        mob: allay
+      buyPrice: 5000
+      page: 1
+      slot: 34
+    19: 
+      type: item
+      item:
+        material: BEE_SPAWN_EGG
+        mob: bee
+      buyPrice: 2500
+      page: 1
+      slot: 43
+    20: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: breeze
+        quantity: 1
+      buyPrice: 50000
+      page: 2
+      slot: 35
+    21: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: magma_cube
+        quantity: 1
+      buyPrice: 50000
+      page: 2
+      slot: 28
+    22: 
+      type: item
+      item:
+        material: SHULKER_SPAWN_EGG
+        mob: shulker
+      buyPrice: 10000
+      page: 2
+      slot: 8
+    23: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: slime
+        quantity: 1
+      buyPrice: 30000
+      page: 2
+      slot: 18
+    24: 
+      type: item
+      item:
+        material: VINDICATOR_SPAWN_EGG
+        mob: vindicator
+      buyPrice: 5000
+      page: 2
+      slot: 17
+    25: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: witch
+        quantity: 1
+      buyPrice: 20000
+      page: 2
+      slot: 9
+    26: 
+      type: item
+      item:
+        material: spawner
+        spawner: true
+        mob: guardian
+        quantity: 1
+      buyPrice: 30000
+      page: 2
+      slot: 12

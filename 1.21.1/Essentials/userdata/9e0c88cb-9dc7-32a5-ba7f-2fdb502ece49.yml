@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 66.33.9.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730752676331
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730754971111
+  login: 1730741617067
+money: '0'
+last-account-name: Ganome187
+lastlocation:
+  world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+  world-name: goodspawn
+  x: -620.5
+  y: 63.0
+  z: 613.5
+  yaw: -1.054107666015625
+  pitch: 5.500640869140625
+homes:
+  xp:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: 89.5
+    y: 117.0
+    z: 404.5
+    yaw: -95.5440444946289
+    pitch: 44.14997863769531
+  village:
+    world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+    world-name: goodspawn
+    x: -620.5
+    y: 63.0
+    z: 613.5
+    yaw: -2.001913070678711
+    pitch: 1.6983537673950195
+logoutlocation:
+  world: 732d9cea-3c15-405d-8ee1-d0bbfd304176
+  world-name: goodspawn
+  x: 89.5
+  y: 117.0
+  z: 404.5
+  yaw: -89.66500854492188
+  pitch: -5.3765869140625
